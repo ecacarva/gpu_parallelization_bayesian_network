@@ -1,0 +1,2 @@
+# gpu_parallelization_bayesian_network
+Intructions
